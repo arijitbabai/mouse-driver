@@ -1,0 +1,1 @@
+cmd_/home/student/arijit/driver/Hello/h3.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.8.0-44-generic/scripts/module-common.lds --build-id  -o /home/student/arijit/driver/Hello/h3.ko /home/student/arijit/driver/Hello/h3.o /home/student/arijit/driver/Hello/h3.mod.o
