@@ -1,0 +1,1 @@
+cmd_/home/student/mouse-driver/mouse/md.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.8.0-44-generic/scripts/module-common.lds --build-id  -o /home/student/mouse-driver/mouse/md.ko /home/student/mouse-driver/mouse/md.o /home/student/mouse-driver/mouse/md.mod.o
